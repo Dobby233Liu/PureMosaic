@@ -4,13 +4,13 @@ Pure Mosaic will not collect any of your private information, it will only get y
 
 ---
 
-＃ Pure Mosaic (纯纯打码) 的隐私政策
+# Pure Mosaic (纯纯打码) 的隐私政策
 
 Pure Mosaic 不会收集您的任何私人信息，只会在发生崩溃时获取您的系统版本号和设备名称，例如Android 10，Pixel 4。
 
 ---
 
-＃ Pure Mosaic (純純打碼) 的隱私政策
+# Pure Mosaic (純純打碼) 的隱私政策
 
 Pure Mosaic 不會收集您的任何私人訊息，只會在發生崩潰時獲取您的系統版本號和裝置名稱，例如Android 10，Pixel 4。
 
